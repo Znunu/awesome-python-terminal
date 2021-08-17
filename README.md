@@ -23,5 +23,5 @@ A curated list of awesome Python frameworks and libraries for interacting with t
 * [progress](https://github.com/verigak/progress/) - (1k) Fancy
 * [progressbar](https://github.com/WoLpH/python-progressbar) - (0.7k) Extra Fancy
 * [tdqm](https://github.com/tqdm/tqdm) - (19k) Extremely Fancy
-* [alive-progress](https://github.com/rsalmei/alive-progress) (2.6k) Ridiculously Fancy
+* [alive-progress](https://github.com/rsalmei/alive-progress) (3k) Ridiculously Fancy
 
