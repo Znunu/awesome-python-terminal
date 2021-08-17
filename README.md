@@ -3,7 +3,7 @@
 A curated list of awesome Python frameworks and libraries for interacting with the console.
 
 
-## Command line parsing
+## Argument Parsing
 *Go beyond argparse with these incredible libraries for creating CLIs*
 
 * [argparse](https://docs.python.org/3/library/argparse.html) - Built in
@@ -11,3 +11,17 @@ A curated list of awesome Python frameworks and libraries for interacting with t
 * [docopt](https://github.com/docopt/docopt) - (7k) Declarative approach
 * [fire](https://github.com/docopt/docopt) - (20k) Add a CLI to any object
 * [typer](https://github.com/tiangolo/typer) - (6k) Add functions to CLI by decorating them
+
+## Input
+*Get input in more ways than just arguments*
+
+* [questionary](https://github.com/tmbo/questionary) - (0.7k) Create pretty user prompts
+
+## Progress Bars
+*Add progress to loops. Don't ask me why we got so many libraries for this*
+
+* [progress](https://github.com/verigak/progress/) - (1k) Fancy
+* [progressbar](https://github.com/WoLpH/python-progressbar) - (0.7k) Extra Fancy
+* [tdqm](https://github.com/tqdm/tqdm) - (19k) Extremely Fancy
+* [alive-progress](https://github.com/rsalmei/alive-progress) (2.6k) Ridiculously Fancy
+
