@@ -44,4 +44,5 @@ A curated list of awesome Python frameworks and libraries for interacting with t
 * [textual](https://github.com/willmcgugan/textual) - (4k) Based on rich
 * [urwid](https://github.com/urwid/urwid) - (2k)
 * [asciimatics](https://github.com/peterbrittain/asciimatics) - (3k) Also has fancy ASCII animations
-* [blessed](https://github.com/jquast/blessed) - (0.7k)
+* [blessed](https://github.com/jquast/blessed) - (0.7k) Based on curses, but it's like blessed... get it?
+* [npyscreen](https://github.com/npcole/npyscreen) - (0.4k) A classic but now unmaintained library
