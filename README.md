@@ -23,8 +23,8 @@ A curated list of awesome Python frameworks and libraries for interacting with t
 * [progress](https://github.com/verigak/progress/) - (1k) Fancy
 * [progressbar](https://github.com/WoLpH/python-progressbar) - (0.7k) Extra Fancy
 * [tdqm](https://github.com/tqdm/tqdm) - (19k) Extremely Fancy
-* [alive-progress](https://github.com/rsalmei/alive-progress) (3k) Ridiculously Fancy
-* [](https://github.com/manrajgrover/halo)
+* [alive-progress](https://github.com/rsalmei/alive-progress) - (3k) Ridiculously Fancy
+* [halo](https://github.com/manrajgrover/halo) - (3k) Without the bar, just spinners
 
 ## Terminal Rendering
 *Who'd have thought that the terminal is copable of rendering all these?*
