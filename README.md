@@ -25,3 +25,9 @@ A curated list of awesome Python frameworks and libraries for interacting with t
 * [tdqm](https://github.com/tqdm/tqdm) - (19k) Extremely Fancy
 * [alive-progress](https://github.com/rsalmei/alive-progress) (3k) Ridiculously Fancy
 
+## Terminal Rendering
+*Who'd have thought that the terminal is copable of rendering all these?*
+
+* [huepy](https://github.com/s0md3v/huepy) - (0.4k) No nonsense colored text
+* [colorama](https://github.com/tartley/colorama) - (3k) Makes ANSI colors work on windows
+* [rich](https://github.com/willmcgugan/rich) - (28k) All kinds of rich text and formatting
