@@ -38,6 +38,7 @@ A curated list of awesome Python frameworks and libraries for interacting with t
 
 ## Full UI frameworks
 *These combine a bit of everything*
+
 [textual](https://github.com/willmcgugan/textual) - (4k) Based on rich
 [urwid](https://github.com/urwid/urwid) - (2k)
 [asciimatics](https://github.com/peterbrittain/asciimatics) - (3k) Also has fancy ASCII animations
