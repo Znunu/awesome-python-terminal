@@ -32,7 +32,7 @@ A curated list of awesome Python frameworks and libraries for interacting with t
 ## Terminal Rendering
 *Who'd have thought that the terminal is copable of rendering all these?*
 
-* [huepy](https://github.com/s0md3v/huepy) - (0.4k) Colored text (There are too many like this)
+* [huepy](https://github.com/s0md3v/huepy) - (0.4k) Colored text (There are many more like this)
 * [colorama](https://github.com/tartley/colorama) - (3k) Makes ANSI colors work on windows
 * [rich](https://github.com/willmcgugan/rich) - (28k) Has got a bit of everything
 * [bashplotlib](https://github.com/glamp/bashplotlib) - (2k) Plots in the terminal
