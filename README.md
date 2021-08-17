@@ -24,10 +24,22 @@ A curated list of awesome Python frameworks and libraries for interacting with t
 * [progressbar](https://github.com/WoLpH/python-progressbar) - (0.7k) Extra Fancy
 * [tdqm](https://github.com/tqdm/tqdm) - (19k) Extremely Fancy
 * [alive-progress](https://github.com/rsalmei/alive-progress) (3k) Ridiculously Fancy
+* [](https://github.com/manrajgrover/halo)
 
 ## Terminal Rendering
 *Who'd have thought that the terminal is copable of rendering all these?*
 
 * [huepy](https://github.com/s0md3v/huepy) - (0.4k) No nonsense colored text
 * [colorama](https://github.com/tartley/colorama) - (3k) Makes ANSI colors work on windows
-* [rich](https://github.com/willmcgugan/rich) - (28k) All kinds of rich text and formatting
+* [rich](https://github.com/willmcgugan/rich) - (28k) Has got a bit of everything
+* [bashplotlib](https://github.com/glamp/bashplotlib) - (2k) Plots in the terminal
+* [emoji](https://github.com/carpedm20/emoji) - (1k) Emojis in terminal
+* [mdv](https://github.com/axiros/terminal_markdown_viewer) - (2k) Markdown in terminal
+
+## Full UI frameworks
+*These combine a bit of everything*
+[textual](https://github.com/willmcgugan/textual) - (4k) Based on rich
+[urwid](https://github.com/urwid/urwid) - (2k)
+[asciimatics](https://github.com/peterbrittain/asciimatics) - (3k) Also has fancy ASCII animations
+[prompt_toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - (7k)
+[blessed](https://github.com/jquast/blessed) - (0.7k)
