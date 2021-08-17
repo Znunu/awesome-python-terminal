@@ -1,6 +1,6 @@
 # Awesome Python Terminal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Python frameworks and libraries for interacting with the console.
+A curated list of awesome Python frameworks and libraries for interacting with the console. A lot of these libraries have functionality in common which makes it hard to put them into sections... but I tried.
 
 
 ## Argument Parsing
@@ -16,6 +16,7 @@ A curated list of awesome Python frameworks and libraries for interacting with t
 *Get input in more ways than just arguments*
 
 * [questionary](https://github.com/tmbo/questionary) - (0.7k) Create pretty user prompts
+* [prompt_toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - (7k) Also supports full UI
 
 ## Progress Bars
 *Add progress to loops. Don't ask me why we got so many libraries for this*
@@ -25,6 +26,7 @@ A curated list of awesome Python frameworks and libraries for interacting with t
 * [tdqm](https://github.com/tqdm/tqdm) - (19k) Extremely Fancy
 * [alive-progress](https://github.com/rsalmei/alive-progress) - (3k) Ridiculously Fancy
 * [halo](https://github.com/manrajgrover/halo) - (3k) Without the bar, just spinners
+* \+ rich + prompt_toolkit
 
 ## Terminal Rendering
 *Who'd have thought that the terminal is copable of rendering all these?*
@@ -36,11 +38,10 @@ A curated list of awesome Python frameworks and libraries for interacting with t
 * [emoji](https://github.com/carpedm20/emoji) - (1k) Emojis in terminal
 * [mdv](https://github.com/axiros/terminal_markdown_viewer) - (2k) Markdown in terminal
 
-## Full UI frameworks
+## Full Textual UI frameworks
 *These combine a bit of everything*
 
 * [textual](https://github.com/willmcgugan/textual) - (4k) Based on rich
 * [urwid](https://github.com/urwid/urwid) - (2k)
 * [asciimatics](https://github.com/peterbrittain/asciimatics) - (3k) Also has fancy ASCII animations
-* [prompt_toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - (7k)
 * [blessed](https://github.com/jquast/blessed) - (0.7k)
