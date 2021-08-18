@@ -1,10 +1,10 @@
 # Awesome Python Terminal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Python frameworks and libraries for interacting with the console. A lot of these libraries have functionality in common which makes it hard to put them into sections... but I tried.
+A list of awesome Python frameworks and libraries for interacting with the console. A lot of these libraries have functionality in common which makes it hard to put them into sections... but I tried.
 
 
 ## Argument Parsing
-*Go beyond argparse with these incredible libraries for creating CLIs*
+*Go beyond argparse with these incredible libraries*
 
 * [argparse](https://docs.python.org/3/library/argparse.html) - Built in
 * [click](https://github.com/pallets/click) - (11k)
